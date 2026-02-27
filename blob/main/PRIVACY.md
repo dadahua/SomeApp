@@ -19,4 +19,4 @@ Our App does not address anyone under the age of 13. We do not knowingly collect
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@example.com (Replace with your email).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at samuel_app@163.com (Replace with your email).
