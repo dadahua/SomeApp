@@ -7,7 +7,7 @@ If you have any questions, feedback, or issues, please feel free to reach out.
 ## Contact Us
 
 - **Email**: samuel_app@163.com (Replace with your email)
-- **GitHub Issues**: [Open an issue](https://github.com/USERNAME/REPO_NAME/issues)
+- **GitHub Issues**: [Open an issue](https://github.com/dadahua/SomeApp/issues)
 
 ## FAQ
 
