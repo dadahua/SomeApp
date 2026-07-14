@@ -32,7 +32,7 @@ We store the following **locally** (for example via `UserDefaults`). It is not u
 | Camera-related access | Only if you enable the flashlight / torch feature | Control the device flash to simulate muzzle flash. We do **not** capture photos, video, or camera frames. |
 | Motion sensors (Core Motion) | Only if you enable motion / shake fire | Detect device motion to trigger sound playback locally. Motion data is not stored or uploaded. |
 
-#### 2.3 Optional feedback via CloudKit
+#### 2.3 Optional feedback 
 
 If you voluntarily submit feedback / a bug report in Settings, we may receive:
 
@@ -63,20 +63,20 @@ We do **not**:
 | Optional flashlight effect | On-device flash control |
 | Optional motion fire | On-device motion sensing |
 | Verify Pro access | Apple StoreKit entitlements + local cache |
-| Handle optional user feedback | CloudKit feedback fields you submit |
+| Handle optional user feedback | feedback fields you submit |
 
 ### 5. Data Sharing
 
 We share data only with:
 
-- **Apple Inc.** — App Store / StoreKit for purchases; CloudKit for optional feedback storage and delivery. Apple’s practices are governed by [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/).
+- **Apple Inc.** — App Store / StoreKit for purchases; optional feedback storage and delivery. Apple’s practices are governed by [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/).
 
 We do not share your data with other third-party analytics or advertising partners.
 
 ### 6. Data Retention
 
 - **Local settings / cache:** Kept until you delete the App or clear its data.
-- **Optional CloudKit feedback:** Retained as long as reasonably needed to handle your request and improve the App, then deleted or anonymized.
+- **feedback:** Retained as long as reasonably needed to handle your request and improve the App, then deleted or anonymized.
 - **Purchase records:** Managed by Apple according to your Apple ID and App Store policies.
 
 ### 7. Children’s Privacy
@@ -93,11 +93,11 @@ The App is intended for a general audience consistent with its App Store age rat
 
 ### 9. Security
 
-Local data uses Apple’s standard iOS / watchOS sandbox security. CloudKit and App Store communications use Apple’s encrypted transport. We do not operate independent custom backend servers for core gameplay/sound features.
+Local data uses Apple’s standard iOS / watchOS sandbox security. App Store communications use Apple’s encrypted transport. We do not operate independent custom backend servers for core gameplay/sound features.
 
 ### 10. International Users
 
-The App is distributed via the Apple App Store. Processing related to purchases and optional CloudKit feedback occurs within Apple’s infrastructure and may involve transfers consistent with Apple’s services and your account region.
+The App is distributed via the Apple App Store. Processing related to purchases and optional feedback occurs within Apple’s infrastructure and may involve transfers consistent with Apple’s services and your account region.
 
 ### 11. Changes
 
