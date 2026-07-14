@@ -34,13 +34,10 @@ We store the following **locally** (for example via `UserDefaults`). It is not u
 
 #### 2.3 Optional feedback via CloudKit
 
-If you voluntarily submit feedback / a bug report in Settings, we may receive through Apple CloudKit (`iCloud.com.tina.WatchGame`):
+If you voluntarily submit feedback / a bug report in Settings, we may receive:
 
 - Feedback text you write
 - Optional contact email you choose to provide
-- Device model and app version
-- Submission timestamp
-- A fixed product label (e.g. game/app name for routing)
 
 This information is used **only** to respond to and improve the App. Do not include sensitive personal data in feedback unless necessary.
 
@@ -141,15 +138,12 @@ We may update this Privacy Policy from time to time. The “Last updated” date
 | 与相机相关的系统权限 | 仅当您开启闪光灯功能时 | 控制设备闪光灯以模拟开火闪光。**不会**拍摄照片、视频或采集画面。 |
 | 运动传感器（Core Motion） | 仅当您开启体感/甩动开火时 | 在本地检测设备运动以触发播放。运动数据不会存储或上传。 |
 
-#### 2.3 可选的意见反馈（CloudKit）
+#### 2.3 可选的意见反馈
 
-若您在设置中主动提交反馈/问题报告，我们可能通过 Apple CloudKit（`iCloud.com.tina.WatchGame`）收到：
+若您在设置中主动提交反馈/问题报告，我们可能收到：
 
 - 您填写的反馈内容
 - 您自愿填写的联系邮箱
-- 设备型号与应用版本
-- 提交时间
-- 用于归类的产品名称标签
 
 上述信息仅用于处理反馈与改进应用。请勿在反馈中提交不必要的敏感个人信息。
 
@@ -171,12 +165,11 @@ Pro 订阅与永久解锁由 **Apple App Store / StoreKit** 处理。我们不�
 
 ### 五、共享
 
-仅在必要时与 **Apple** 共享（App Store 购买；CloudKit 可选反馈）。适用 [Apple 隐私政策](https://www.apple.com/legal/privacy/)。我们不会与其他广告或分析合作方共享您的数据。
+仅在必要时与 **Apple** 共享。适用 [Apple 隐私政策](https://www.apple.com/legal/privacy/)。我们不会与其他广告或分析合作方共享您的数据。
 
 ### 六、保存期限
 
 - 本地设置/缓存：直至您删除应用或清除数据
-- CloudKit 反馈：在处理请求与改进产品所需的合理期限内保留，其后删除或匿名化
 - 购买记录：由 Apple 按您的 Apple ID 与 App Store 规则管理
 
 ### 七、儿童隐私
