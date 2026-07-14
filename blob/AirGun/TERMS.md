@@ -77,11 +77,11 @@ You agree to use the App responsibly:
 
 ### 8. Feedback
 
-If you submit feedback, ideas, or bug reports (including via in-app CloudKit feedback), you grant us a non-exclusive, worldwide, royalty-free license to use that feedback to operate and improve the App. Do not submit confidential information you are not allowed to share.
+If you submit feedback, ideas, or bug reports (including via in-app feedback), you grant us a non-exclusive, worldwide, royalty-free license to use that feedback to operate and improve the App. Do not submit confidential information you are not allowed to share.
 
 ### 9. Third-Party Services
 
-The App relies on Apple platforms (App Store, StoreKit, optionally CloudKit / iCloud for feedback). Your use of Apple services is also subject to Apple’s terms and policies.
+The App relies on Apple platforms (App Store, StoreKit, optionally feedback). Your use of Apple services is also subject to Apple’s terms and policies.
 
 ### 10. Disclaimer of Warranties
 
@@ -181,11 +181,11 @@ These Terms are governed by the laws applicable to the developer’s place of bu
 
 ### 八、反馈
 
-若您提交反馈、建议或问题报告（含应用内 CloudKit 反馈），即授予我们为运营与改进应用而使用该反馈的非独占、全球、免许可费许可。请勿提交无权分享的保密信息。
+若您提交反馈、建议或问题报告（含应用内 反馈），即授予我们为运营与改进应用而使用该反馈的非独占、全球、免许可费许可。请勿提交无权分享的保密信息。
 
 ### 九、第三方服务
 
-本应用依赖 Apple 平台（App Store、StoreKit，以及可选的 CloudKit/iCloud 反馈能力）。您使用 Apple 服务时还应遵守 Apple 相关条款。
+本应用依赖 Apple 平台（App Store、StoreKit，以及可选的 反馈能力）。您使用 Apple 服务时还应遵守 Apple 相关条款。
 
 ### 十、免责声明
 
