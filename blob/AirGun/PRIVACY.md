@@ -105,7 +105,7 @@ We may update this Privacy Policy from time to time. The “Last updated” date
 
 ### 12. Contact
 
-- **Email:** apprenticedahua@gmail.com  
+- **Email:** samuel_app@163.com  
 - **GitHub:** [https://github.com/dadahua/SomeApp](https://github.com/dadahua/SomeApp)  
 - **App Store:** [https://apps.apple.com/app/id6789443513](https://apps.apple.com/app/id6789443513)
 

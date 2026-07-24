@@ -124,7 +124,7 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 If you have questions about this Privacy Policy, please contact us:
 
-- **Email**: apprenticedahua@gmail.com  
+- **Email**: samuel_app@163.com  
 - **GitHub**: [https://github.com/dadahua/SomeApp](https://github.com/dadahua/SomeApp)
 
 ---
