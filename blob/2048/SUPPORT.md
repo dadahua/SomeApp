@@ -107,7 +107,7 @@ A: Please contact us via the options below. We read every message and aim to res
 
 ## Contact & Support
 
-- **Email**: apprenticedahua@gmail.com
+- **Email**: samuel_app@163.com
 - **GitHub Issues**: [https://github.com/dadahua/SomeApp](https://github.com/dadahua/SomeApp)
 
 We aim to respond to all support inquiries within **2–3 business days**.
